@@ -1,1 +1,6 @@
 # PSTAT100FinalProject
+Amelia Meyer and Harleen Kaur 
+
+## Abstract
+
+The purpose of our project will be to analyze the top trending videos on YouTube in the US. Our dataset only contains videos in the US that appeared on the Top Trending list in the last three years (2021 through 2022) so our analysis will not extend to YouTube videos in general. Our goals are to get a better understanding of the types of videos that appear on the Top Trending list in the US. In particular, we will be focusing on identifying patterns amongst the top trending videos. We will explore whether certain genres receive more views and likes, or dislikes;  whether there are any consistent top-trenders (are there particular music artists that appear on the top trending list often?); and whether a high number of dislikes prompts top-trenders to disable their views from commenting. Through our graphical and statistical analysis of the dataset we show that music is the most popular category on average in terms of views and likes. We also show a strong a positive relationship between likes, dislikes, views, and comment_counts. 
